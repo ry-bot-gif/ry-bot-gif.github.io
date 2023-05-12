@@ -3,4 +3,4 @@
 <p style="background-color:DarkTurquoise;"><em>Internet backbone</em> is the core of the internet. It <strong>connects all</strong> computer networks and routers of the internet. The <em>Internet backbone</em> helps the largest and fastest networks link together with fiber-optic connections and high-performance routers.</p>
 
 <h2 style="background-color:CornflowerBlue;">What is the difference between clients and servers on the internet?</h2>
-<p style="background-color:DarkCyan;"><em> A server is a sample of software or hardware that serves a specific service to its clients. A client is a user program that connects to a server to access a service. </p>
+<p style="background-color:DarkCyan;"> A server is a sample of software or hardware that serves a specific service to its clients. A client is a user program that connects to a server to access a service. </p>
