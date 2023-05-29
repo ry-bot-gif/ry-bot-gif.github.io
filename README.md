@@ -14,4 +14,9 @@
 <p> Emailing, network printing, and the World Wide Web. </p>
 
 <h2> What is Hypertext? </h2>
-<p>Hypertext is text displayed on a computer display or other electronic devices with references to other text that the reader can immediately access.</p>
+<p>Hypertext is text displayed on a computer display or other electronic devices with references/links to other texts that the reader can immediately access with a single click.</p>
+
+<h2> How is <strong>“the web”</strong> related to the internet? </h2>
+<p> The Internet, linking your computer to other computers around the world, is a way of transporting content. The Web is software that lets you use that content or contribute your own. </p>
+
+<iframe width="962" height="541" src="https://www.youtube.com/embed/CX_HyY3kbZw" title="The Internet vs. The Web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
