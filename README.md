@@ -20,3 +20,21 @@
 <p> The Internet, linking your computer to other computers around the world, is a way of transporting content. The Web is software that lets you use that content or contribute your own. </p>
 
 <iframe width="962" height="541" src="https://www.youtube.com/embed/CX_HyY3kbZw" title="The Internet vs. The Web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2> Explain how the Hypertext Transfer Protocol (HTTP) is used to facilitate client/server interaction. </h2>
+<p> How HTTP works. Through the HTTP protocol, resources are exchanged between client devices and servers over the internet. Client devices send requests to servers for the resources needed to load a web page; the servers send responses back to the client to fulfill the requests. </p>
+
+<h2> What is HTTP and how is it different from HTTPS? </h2>
+<ol>
+  <li>HTTP <ul>
+      <li>Unsecured</li>
+      <li>Sends data over port 80</li>
+      <li>No SSL certificates are required</li>
+      <li>Operates at application layer</li>
+
+<ol>
+  <li>HTTPS <ul>
+       <li>Secured</li>
+       <li>Uses port 443</li>
+       <li>Operates at transport layer</li>
+       <li>Required to have a SSL certificate and CA signs it</li>
