@@ -61,18 +61,18 @@ Markup languages are also generally easier to learn and use than scripting langu
     <li>FPS games</li>
     <li>Chess</li>
     <li>Pool (not the water pool, then pool you play on the green table with balls) <li>
-    <li>Soccer<li>
+    <li>Soccer</li>
   </ul></li>
   <li>Values<ul>
     <li>Humour</li>
     <li>Honesty</li>     
-     <li>Kindness<li>
+     <li>Kindness</li>
   </ul></li>
   <li>Beliefs<ul>
     <li>The earth is round</li>
     <li>Moon landing <strong> wasn't</strong> faked </li>
-    <li>Climate change is real <li>
-    <li>There is no god<li>
+    <li>Climate change is real </li>
+    <li>There is no god</li>
   </ul></li>
   <li>Resources<ul>
     <li>Motivation</li>
