@@ -27,16 +27,17 @@
 <h2> What is HTTP and how is it different from HTTPS? </h2>
 <ol>
   <li>HTTP <ul>
-      <li>Unsecured</li>
-      <li>Sends data over port 80</li>
-      <li>No SSL certificates are required</li>
-      <li>Operates at <strong>application</strong> layer</li>
-
+    <li>Unsecured</li>
+    <li>Sends data over port 80</li>
+    <li>No SSL certificates are required</li>
+    <li>Operates at <strong>application</strong> layer</li>
+  </ul></li>
   <li>HTTPS <ul>
-       <li>Secured</li>
-       <li>Uses port 443</li>
-       <li>Operates at <strong>transport</strong> layer</li>
-       <li>Required to have a SSL certificate and CA signs it</li>
+    <li>Secured</li>
+    <li>Uses port 443</li>
+    <li>Operates at <strong>transport</strong> layer</li>
+    <li>Required to have a SSL certificate and CA signs it</li>
+  </ul></li>
 </ol>
 
 <h2>Describe and illustrate the development of the Web in general terms using the Web 1.0, Web 2.0, and Web 3.0 generational paradigms.</h2>
