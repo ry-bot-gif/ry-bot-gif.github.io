@@ -56,39 +56,31 @@ Markup languages are also generally easier to learn and use than scripting langu
 
  <h2> List some of your own interests, values, beliefs, resources, prior learning and experiences.</h2>
 <ol>
-  <li>Interests <ul>
-      <li>FPS games</li>
-      <li>Chess</li>
-      <li>Pool (not the water pool, then pool you play on the green table with balls) <li>
-      <li>Soccer<li>
-</ul></li>
-<ol>
-  <li>Values<ul>
+    <li>Interests <ul>
+        <li>FPS games</li>
+        <li>Chess</li>
+        <li>Pool (not the water pool, then pool you play on the green table with balls) <li>
+        <li>Soccer<li>
+  </ul></li>
+    <li>Values<ul>
       <li>Humour</li>
       <li>Honesty</li>     
       <li>Kindness<li>
-</ul></li>
-<ol>
-  <li>Beliefs<ul>
+  </ul></li>
+    <li>Beliefs<ul>
       <li>The earth is round</li>
       <li>Moon landing <strong> wasn't</strong> faked </li>
       <li>Climate change is real <li>
       <li>There is no god<li>
-</ul></li>
-<ol>
-  <li>Resources<ul>
+  </ul></li>
+    <li>Resources<ul>
       <li>Motivation</li>
       <li>Education</li>
       <li>Physical condition</li>
       <li>Patience</li>
-</ul></li>
-<ol>
-  <li>Prior learning - Regarding code<ul>
+  </ul></li>
+    <li>Prior learning - Regarding code<ul>
       <li>Grade 9 video game design<li>
       <li>A random 40min YouTube video I watched one day <li>
-</ul></li>
-<ol>
-  <li>Resources<ul>
-      <li>Motivation</li>
-      <li>Education</li>
-      <li>Physical condition</li>
+  </ul></li>
+</ol>
