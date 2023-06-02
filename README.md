@@ -85,3 +85,6 @@ Markup languages are also generally easier to learn and use than scripting langu
     <li>A random 40min YouTube video I watched one day </li>
   </ul></li>
 </ol>
+
+<h1> Describe how CSE1210 may connect to your future occupational choices. </h1>
+<p> If I decide to go into the computer science, web design or a marketing career/job then the tools and different things I learned during this module with HTML and Markdown will help me.
