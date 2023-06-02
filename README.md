@@ -32,12 +32,12 @@
       <li>No SSL certificates are required</li>
       <li>Operates at <strong>application</strong> layer</li>
 
-<ol>
   <li>HTTPS <ul>
        <li>Secured</li>
        <li>Uses port 443</li>
        <li>Operates at <strong>transport</strong> layer</li>
        <li>Required to have a SSL certificate and CA signs it</li>
+</ol>
 
 <h2>Describe and illustrate the development of the Web in general terms using the Web 1.0, Web 2.0, and Web 3.0 generational paradigms.</h2>
 <p> Web 1.0 was all about fetching, and reading information. Web 2.0 is all about reading, writing, creating, and interacting with the end user. It was famously called the participative social web. Web 3.0 is the third generation of the World Wide Web, and is a vision of a decentralized web which is currently a work in progress. It is all about reading, writing, and owning.</p>
@@ -56,31 +56,31 @@ Markup languages are also generally easier to learn and use than scripting langu
 
  <h2> List some of your own interests, values, beliefs, resources, prior learning and experiences.</h2>
 <ol>
-    <li>Interests <ul>
-        <li>FPS games</li>
-        <li>Chess</li>
-        <li>Pool (not the water pool, then pool you play on the green table with balls) <li>
-        <li>Soccer<li>
+  <li>Interests <ul>
+    <li>FPS games</li>
+    <li>Chess</li>
+    <li>Pool (not the water pool, then pool you play on the green table with balls) <li>
+    <li>Soccer<li>
   </ul></li>
-    <li>Values<ul>
-      <li>Humour</li>
-      <li>Honesty</li>     
-      <li>Kindness<li>
+  <li>Values<ul>
+    <li>Humour</li>
+    <li>Honesty</li>     
+     <li>Kindness<li>
   </ul></li>
-    <li>Beliefs<ul>
-      <li>The earth is round</li>
-      <li>Moon landing <strong> wasn't</strong> faked </li>
-      <li>Climate change is real <li>
-      <li>There is no god<li>
+  <li>Beliefs<ul>
+    <li>The earth is round</li>
+    <li>Moon landing <strong> wasn't</strong> faked </li>
+    <li>Climate change is real <li>
+    <li>There is no god<li>
   </ul></li>
-    <li>Resources<ul>
-      <li>Motivation</li>
-      <li>Education</li>
-      <li>Physical condition</li>
-      <li>Patience</li>
+  <li>Resources<ul>
+    <li>Motivation</li>
+    <li>Education</li>
+    <li>Physical condition</li>
+    <li>Patience</li>
   </ul></li>
-    <li>Prior learning - Regarding code<ul>
-      <li>Grade 9 video game design<li>
-      <li>A random 40min YouTube video I watched one day <li>
+  <li>Prior learning - Regarding code<ul>
+    <li>Grade 9 video game design</li>
+    <li>A random 40min YouTube video I watched one day </li>
   </ul></li>
 </ol>
